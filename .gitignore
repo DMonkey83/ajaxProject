@@ -6,3 +6,5 @@
 /package-lock.json
 /node_modules/.bin/acorn
 /node_modules/.bin/ansi-html
+/node_modules/.bin/babylon
+node_modules/*
