@@ -1,0 +1,8 @@
+/build/bundle.js
+/build/data.json
+/build/index.html
+/build/style.css
+/node_modules/babel-generator/lib/node/index.js
+/package-lock.json
+/node_modules/.bin/acorn
+/node_modules/.bin/ansi-html
